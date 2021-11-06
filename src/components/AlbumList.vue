@@ -196,6 +196,8 @@ button {
 @media only screen and (max-width: 500px) {
   .side-album {
     visibility: collapse;
+    width: 0;
+    height: 0;
   }
 
   .side-album img {
