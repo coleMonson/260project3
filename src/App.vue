@@ -25,7 +25,7 @@
   </div>
   <router-view />
   <div class="footer">
-    <a href="https://github.com/BYU-CS-260-Spring-2021/lab-3b-grocery-store-coleMonson"><i class="github fab fa-github"></i></a>
+    <a href="https://github.com/coleMonson/260project3"><i class="github fab fa-github"></i></a>
   </div>
 </div>
 </template>
