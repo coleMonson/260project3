@@ -1,5 +1,3 @@
-# grocery-store
-
 ## Project setup
 ```
 npm install
